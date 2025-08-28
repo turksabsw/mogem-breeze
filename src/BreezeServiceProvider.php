@@ -1,6 +1,6 @@
 <?php
 
-namespace Laravel\Breeze;
+namespace Turksabsw\MogemBreeze;
 
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
