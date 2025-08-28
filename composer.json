@@ -1,0 +1,46 @@
+{
+    "name": "turksabsw/mogem-breeze",
+    "description": "Minimal Laravel authentication scaffolding with Blade and Tailwind (Mogem custom).",
+    "keywords": ["laravel", "auth", "mogem"],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/turksabsw/mogem-breeze/issues",
+        "source": "https://github.com/turksabsw/mogem-breeze"
+    },
+    "authors": [
+        {
+            "name": "Turksab Software",
+            "email": "turksab.sw@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.2.0",
+        "illuminate/console": "^11.0|^12.0",
+        "illuminate/filesystem": "^11.0|^12.0",
+        "illuminate/support": "^11.0|^12.0",
+        "illuminate/validation": "^11.0|^12.0",
+        "symfony/console": "^7.0"
+    },
+    "require-dev": {
+        "laravel/framework": "^11.0|^12.0",
+        "orchestra/testbench-core": "^9.0|^10.0",
+        "phpstan/phpstan": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Turksabsw\\MogemBreeze\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Turksabsw\\MogemBreeze\\BreezeServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
