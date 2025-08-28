@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/breeze/compare/v2.3.8...2.x)
+## [Unreleased](https://github.com/laravel/breeze/compare/1.0.0...main)
+
+## [1.0.0](https://github.com/laravel/breeze/compare/v2.3.8...1.0.0) - 2025-08-28
+
+**Full Changelog**: https://github.com/turksabsw/mogem-breeze/commits/1.0.0
 
 ## [v2.3.8](https://github.com/laravel/breeze/compare/v2.3.7...v2.3.8) - 2025-07-18
 
