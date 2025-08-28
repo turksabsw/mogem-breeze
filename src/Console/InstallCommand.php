@@ -1,6 +1,6 @@
 <?php
 
-namespace Turksabsw\MogemBreeze\Console
+namespace Turksabsw\MogemBreeze\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Contracts\Console\PromptsForMissingInput;
