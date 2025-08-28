@@ -34,7 +34,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Turksabsw\\MogemBreeze\\MogemBreezeServiceProvider"
+                "Turksabsw\\MogemBreeze\\BreezeServiceProvider"
             ]
         }
     },
